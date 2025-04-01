@@ -65,6 +65,7 @@ body {
     flex: 0 1 400px;
     gap: 10px;
     font-size: 18px;
+    color: rgb(163, 163, 163)
 }
 
 .sign-up {

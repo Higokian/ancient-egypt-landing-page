@@ -18,6 +18,6 @@ This project is for getting practice creating a landing page from scratch, with 
 
 ## Attributions:
 
-Photo by [Abdelrhman Allam](href="https://unsplash.com/@alllllam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash") 
+Photo by [Abdelrhman Allam](https://unsplash.com/@alllllam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) 
 
-Photo by [Diego F. Parra:](https://www.pexels.com/photo/sailboat-in-water-in-mountains-landscape-15131485/)
+Photo by [Diego F. Parra](https://www.pexels.com/photo/sailboat-in-water-in-mountains-landscape-15131485/)

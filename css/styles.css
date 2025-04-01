@@ -114,9 +114,10 @@ h2 {
 
 .boxes {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     width: 100%;
     flex-wrap: wrap;
+    gap: 50px;
 }
 
 .box-container {

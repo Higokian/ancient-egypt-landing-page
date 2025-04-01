@@ -8,11 +8,22 @@
 body {
     display: flex;
     flex-direction: column;
+    font-family: Roboto, Times, serif;
+}
+
+.nav, .hero, li > a {
+    background-color: #1F2937;
+    color: #F9FAF8;
 }
 
 .nav {
     display: flex;
     justify-content: space-between;
+    padding: 20px;
+}
+
+.logo {
+    font-size: 24px;
 }
 
 .main-links {

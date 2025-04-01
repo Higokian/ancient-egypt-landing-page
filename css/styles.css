@@ -45,7 +45,7 @@ body {
 
 .hero {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     padding: 50px 30px 50px 50px;
 }
@@ -59,7 +59,9 @@ body {
 .hero-content {
     display: flex;
     flex-direction: column;
-    flex: 1 1 400px;
+    flex-wrap: wrap;
+    flex: 1 1 100px;
+    max-width: 500px;
     gap: 10px;
     font-size: 18px;
     color: rgb(163, 163, 163)
@@ -82,7 +84,7 @@ body {
 figure {
     border: 5px solid rgb(207, 150, 4);
     flex: 1 1 100px;
-    max-width: 500px;
+    max-width: 400px;
 }
 
 figcaption {

@@ -26,6 +26,7 @@ body {
 
 .logo {
     font-size: 24px;
+    color: rgb(207, 150, 4);
 }
 
 .main-links {
@@ -48,6 +49,7 @@ body {
 .hero h1 {
     font-size: 48px;
     font-weight: 900;
+    color: rgb(207, 150, 4);
 }
 
 .hero-content {
@@ -61,8 +63,7 @@ body {
 .sign-up {
     flex-basis: 25px;
     width: 100px;
-    background-color: #3882F6;
-    color: white;
+    background-color: rgb(207, 150, 4);
     font-weight: 900;
     border-radius: 7px;
     border-style: none;

@@ -1,3 +1,10 @@
+
+/* Fonts */
+.kelly-slab-regular {
+    font-family: "Kelly Slab", sans-serif;
+    font-style: normal;
+}
+
 * {
     margin: 0;
     padding: 0;

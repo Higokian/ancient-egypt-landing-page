@@ -69,6 +69,6 @@ body {
 }
 
 .hero-img {
-    width: 400px;
-    height: 200px;
+    max-width: 400px;
+    height: auto;
 }

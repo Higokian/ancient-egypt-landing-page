@@ -72,3 +72,17 @@ body {
     max-width: 400px;
     height: auto;
 }
+
+figure {
+    border: 5px solid rgb(207, 150, 4);
+}
+
+figcaption {
+    background-color: #21262e;
+    margin-top: -5px;
+    padding: 5px;
+}
+
+figcaption a {
+    color: rgb(153, 153, 153);
+}

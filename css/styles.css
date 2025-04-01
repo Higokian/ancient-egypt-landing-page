@@ -85,6 +85,7 @@ figure {
     border: 5px solid rgb(207, 150, 4);
     flex: 1 1 100px;
     max-width: 400px;
+    border-radius: 5px;
 }
 
 figcaption {

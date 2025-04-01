@@ -11,6 +11,8 @@ body {
     font-family: Roboto, Times, serif;
 }
 
+/* Navigation */
+
 .nav, .hero, li > a {
     background-color: #1F2937;
     color: #F9FAF8;
@@ -29,4 +31,38 @@ body {
 .main-links {
     display: flex;
     gap: 20px;
+}
+
+/* Hero Section */
+
+.hero {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+    flex: 1 1 300px;
+    gap: 20px;
+}
+
+.hero h1 {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero-content {
+    display: flex;
+    flex-direction: column;
+    flex: 0 1 400px;
+    gap: 10px;
+    font-size: 18px;
+}
+
+.sign-up {
+    flex-basis: 25px;
+    width: 100px;
+}
+
+.hero-img {
+    width: 400px;
+    height: 200px;
 }

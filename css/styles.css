@@ -185,3 +185,28 @@ h2 {
     color: #1F2937;
     margin-right: auto;
 }
+
+/* CTA Section */
+.cta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 75px;
+    
+}
+
+.cta-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    border-radius: 7px;
+    background-color: rgb(207, 150, 4);
+}
+
+.sign-up-container {
+    align-self: center;
+}
+
+.cta .sign-up {
+    border: 2px solid #21262e;
+}

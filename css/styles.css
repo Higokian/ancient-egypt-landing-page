@@ -15,6 +15,10 @@
     transition: all .2s ease-in-out;
 }
 
+.slow {
+    transition: all .35s ease-in-out;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -191,8 +195,7 @@ h2 {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 75px;
-    
+    padding: 75px 0;
 }
 
 .cta-container {
@@ -201,12 +204,20 @@ h2 {
     padding: 40px;
     border-radius: 7px;
     background-color: rgb(207, 150, 4);
+    width: 80%;
 }
 
 .sign-up-container {
     align-self: center;
 }
 
-.cta .sign-up {
-    border: 2px solid #21262e;
+.sign-up-container .sign-up {
+    border: 2px solid black;
+    padding: 10px 0;
+}
+
+.sign-up-container .sign-up:hover {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    cursor: pointer;
 }

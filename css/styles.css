@@ -1,5 +1,5 @@
 
-/* Fonts */
+/* FONTS */
 .kelly-slab-regular {
     font-family: "Kelly Slab", sans-serif;
     font-style: normal;
@@ -10,7 +10,7 @@
     font-weight: 900;
 }
 
-/* Effects */
+/* EFFECTS */
 .grow {
     transition: all .2s ease-in-out;
 }
@@ -32,7 +32,7 @@ body {
     font-family: Roboto, Times, serif;
 }
 
-/* Navigation */
+/* NAVIGATION */
 
 .nav, .hero, li > a {
     background-color: #1F2937;
@@ -55,7 +55,7 @@ body {
     gap: 20px;
 }
 
-/* Hero Section */
+/* HERO SECTION */
 
 .hero {
     display: flex;
@@ -115,7 +115,7 @@ figcaption a {
     color: rgb(153, 153, 153);
 }
 
-/* Random Facts Section */
+/* RANDOM FACTS SECTION */
 
 h2 {
     font-size: 36px;
@@ -171,7 +171,7 @@ h2 {
     border-bottom: 5px solid #1F2937;
 }
 
-/* Quote Section */
+/* QUOTE SECTION */
 
 .quote {
     display: flex;
@@ -190,7 +190,7 @@ h2 {
     margin-right: auto;
 }
 
-/* CTA Section */
+/* CTA SECTION */
 .cta {
     display: flex;
     justify-content: center;
@@ -221,6 +221,8 @@ h2 {
     color: #E5E7EB;
     cursor: pointer;
 }
+
+/* FOOTER */
 
 .footer {
     display: flex;

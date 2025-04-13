@@ -171,10 +171,9 @@ h2 {
 .quote {
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
     padding: 75px;
     background-color: #E5E7EB;
-    
+    text-align: center;
 }
 
 .quote :first-child {
@@ -182,7 +181,10 @@ h2 {
     font-style: italic;
     font-weight: 100;
     color: #1F2937;
-    margin-right: auto;
+}
+
+.quote :last-child {
+    margin-left: auto;
 }
 
 /* CTA SECTION */
